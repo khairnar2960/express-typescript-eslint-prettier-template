@@ -22,25 +22,25 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^5.1.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.17.0",
-    "@tsconfig/node22": "^22.0.0",
-    "@types/express": "^5.0.0",
-    "@types/node": "^22.10.2",
-    "@vitest/coverage-v8": "^2.1.8",
-    "@vitest/eslint-plugin": "^1.1.24",
-    "@vitest/ui": "^2.1.8",
-    "eslint": "^9.17.0",
-    "eslint-plugin-perfectionist": "^4.6.0",
+    "@eslint/js": "^9.39.1",
+    "@tsconfig/node22": "^22.0.5",
+    "@types/express": "^5.0.5",
+    "@types/node": "^24.10.1",
+    "@vitest/coverage-v8": "^4.0.10",
+    "@vitest/eslint-plugin": "^1.4.3",
+    "@vitest/ui": "^4.0.10",
+    "eslint": "^9.39.1",
+    "eslint-plugin-perfectionist": "^4.15.1",
     "husky": "^9.1.7",
-    "lint-staged": "^15.2.11",
-    "prettier": "^3.4.2",
-    "tsx": "^4.19.2",
-    "typescript": "^5.7.2",
-    "typescript-eslint": "^8.18.2",
-    "vitest": "^2.1.8"
+    "lint-staged": "^16.2.6",
+    "prettier": "^3.6.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.47.0",
+    "vitest": "^4.0.10"
   },
   "imports": {
     "#*": "./src/*"
